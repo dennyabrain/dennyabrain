@@ -1,4 +1,4 @@
 ### Hey 👋
 
-- Product Engineer building on mobile and web tools.
+- Product Engineer working on mobile and web tools.
 - Currently building [Tattle](https://tattle.co.in/)
